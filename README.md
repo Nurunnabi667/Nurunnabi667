@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Nurun Nabi Prince
 
-
-
 ![💻 WordPress & Elementor Developer | Website Designer](https://yt3.googleusercontent.com/XB6xLPz07j0NEXeltSvuT-4_EiHRVmaY923pR_J2VaQI2y8M2hyk2Yp-9tFLtt3BiTiF37WDeBw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 
@@ -84,6 +82,23 @@ I'm always interested in learning, sharing ideas, and collaborating on web devel
 **Let's build something great together!**
 
 ---
+
+⭐ *Thanks for visiting my GitHub profile!*
+
+Skills: WordPress / Elementor / HTML / CSS / PHP
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nurunnabi667)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurunnabi667&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Nurunnabi667)  
+
+
 
 ⭐ *Thanks for visiting my GitHub profile!*
 
